@@ -82,13 +82,13 @@ header a:hover {
 }
 #showcase h1{
 	margin-top: 100px;
-	color: #ffffff;
+	color: #a9a9a9;
 	margin-bottom: 10px;
 	font-size: 55px;
 }
 #showcase p{
 	font-size: 20px;
-	color: #ffffff;
+	color: #a9a9a9;
 
 }
 #subscribe{
@@ -191,10 +191,10 @@ aside.sidebar .query button{
 		margin-top: 20px;
 	}
 	#subscribe button{
-		width: 100%;
+		width: 60%;
 	} 
 	#subscribe input[type=email]{
-		width: 100%;
+		width: 60%;
 		margin-bottom: 10px;
 	} 
 }
